@@ -21,7 +21,8 @@ Este é um aplicativo mobile simples feito com React Native e Expo Router que pe
 1. Clone o repositório:
    ```bash
    git clone https://github.com/GlauberMargem/fotografiaApp.git
-   cd seu-repo
+   cd fotografiaApp
+
 
 2. Instale as dependências:
    npm install
@@ -35,3 +36,11 @@ Este é um aplicativo mobile simples feito com React Native e Expo Router que pe
   ├─ TelaA.js     # Tela principal com botão e imagem
   └─ TelaB.js     # Tela com imagem e animação fade-in
   └─ fotografiaResenha.js # Tela para onde o botão navega após o flash
+
+## Telas
+
+Tela 1
+   ./assets/prints/tela1.png
+
+Tela 2
+   ./assets/prints/tela2.png
