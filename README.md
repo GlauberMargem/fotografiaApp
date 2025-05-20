@@ -20,7 +20,7 @@ Este é um aplicativo mobile simples feito com React Native e Expo Router que pe
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/seu-repo.git
+   git clone https://github.com/GlauberMargem/fotografiaApp.git
    cd seu-repo
 
 2. Instale as dependências:
